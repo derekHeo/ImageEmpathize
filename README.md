@@ -19,6 +19,8 @@
   모델 평가 방식 : 테스트 이미지에 대한 BLEU, ROUGE 점수 측정
 
   최종 웹 디자인 :
+
+  
   <img width="397" alt="image" src="https://github.com/user-attachments/assets/befb6cbb-d16a-42ed-a922-6eb6476f774a" />
 
   
